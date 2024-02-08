@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+i am Edelson And I'm an App Developer And I'm also a student of programming and learning more technologies.
+
 <!--
 **Super-SaiyaDev/Super-SaiyaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
